@@ -3,6 +3,7 @@
 	<name>First_Spring_MVC</name>
 	<comment></comment>
 	<projects>
+		<project>Servers</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

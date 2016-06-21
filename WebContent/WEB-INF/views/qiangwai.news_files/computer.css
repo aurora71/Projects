@@ -60,16 +60,16 @@ body{padding:0;margin:0;}
 
 
 .listbox{width:100%;height:auto;overflow:hidden;padding:40px 0 40px 0;border-top:1px #e9e9e9 solid;}
-.listbox .listleft{width:70%;height:auto;padding-right:20px;float:left;}
+.listbox .listleft{width:70%;height:auto;padding-right:20px;float:left;margin-top: -5px;}
 .listbox .listright{width:200px;height:150px;float:right;}
-.titlea{display:block;font-size:25px;font-weight:500;color:#333333;height:auto;line-height:32px;overflow:hidden;margin-bottom:18px;}
+.titlea{display:block;font-size:25px;font-weight:500;color:#333333;height:auto;line-height:32px;overflow:hidden;margin-bottom:5px; margin-top:-25px;}
 .titlea:hover{text-underline:none;}
-.textspan{display:block;font-size:16px;color:#666666;line-height:1.5em;height:45px;overflow:visible;margin-bottom:13px;}
+.textspan{margin-top:20px;display:block;font-size:16px;color:#666666;line-height:1.5em;height:45px;overflow:hidden;margin-bottom:0px;}
 .imgspan{display:block;width:200px;height:150px;overflow:hidden;}
 .imgspan img{width:100%;height:100%;}
 .listimg{margin-bottom:15px;}
 .listimg .imgspan{float:left;margin:0 5px;}
-.affbox{width:100%;color:#cccccc;font-size:16px;height:20px;overflow:visible;}
+.affbox{width:100%;color:#cccccc;font-size:16px;overflow:visible;margin-top:-10px;}
 .affbox span{float:left;}
 .affbox .timespan{float:right;}
 
@@ -116,3 +116,4 @@ body{padding:0;margin:0;}
 .codebox span{display:block;text-indent:5px;font-size:16px;color:#999999;}
 .codebox img{width:240px;}
 .picapp{width:760px;height:520px;margin:20px auto;}
+
